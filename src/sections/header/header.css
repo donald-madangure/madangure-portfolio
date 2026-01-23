@@ -73,7 +73,7 @@ header {
 @media screen and (max-width: 600px) {      
 
     .header__profile {
-        margin-top: 1rem;
+        margin-top: 0.9rem;
         width: 14rem;
         height: 17rem;
         max-width: 60%;
