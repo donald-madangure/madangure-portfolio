@@ -64,7 +64,7 @@ header {
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
     header {
-        margin-top: 3rem;
+        margin-top: 7rem;
         height: 100vh;
     }
 }
@@ -73,6 +73,7 @@ header {
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 600px) {
     .header__profile {
+        margin-top: 3rem;
         width: 14rem;
         height: 17rem;
         max-width: 60%;
@@ -84,6 +85,7 @@ header {
     }
 
     .header__cta {
+        margin-bottom: 3rem;
         gap: 1rem;
     }
 
