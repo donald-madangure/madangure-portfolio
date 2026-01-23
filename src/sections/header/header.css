@@ -80,7 +80,8 @@ header {
         max-height: 35vh;
     }
 
-    .header__container p {        
+    .header__container p { 
+        text-align: left;       
         width: 100%;
     }
     p {
