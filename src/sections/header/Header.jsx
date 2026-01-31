@@ -18,10 +18,13 @@ const Header = () => {
         </div>
         <h3  data-aos="fade-up">Donald Madangure</h3>
         <p  data-aos="fade-up">
-          Ready to launch your online presence? Tell me about your project and let's create a fast, modern, and fully mobile-responsive website or web application.
+          {/* Ready to launch your online presence? Tell me about your project and let's create a fast, modern, and fully mobile-responsive website or web application.
           I specialize in building <b>Progressive Web Apps (PWAs)</b>—giving your users a lightning-fast, app-like experience directly through their browser,
           complete with offline capabilities and push notifications. To further elevate your platform, I offer cutting-edge <b>AI Integration</b>
-          to create intuitive, voice-enabled, and highly functional user experiences that set you apart from the competition!         
+          to create intuitive, voice-enabled, and highly functional user experiences that set you apart from the competition!          */}
+          I specialize in building fast, modern, and fully mobile-responsive web applications that don't compromise on scale. 
+          By applying <b>startup-speed innovation to enterprise-grade platforms</b>,
+           I ensure your digital tools are as agile as they are robust.
         </p>
         <div className="header__cta"  data-aos="fade-up">
           <a href="#contact" className='btn primary'>Let's Talk</a>
