@@ -1,6 +1,6 @@
 header {
     margin-top: 5rem;   
-    height: calc(100vh - 1rem);
+    height: calc(100vh - -6rem);
     display: grid;
     place-items: center;
     background: var(--color-white);
@@ -64,15 +64,25 @@ header {
 /* MEDIA QUERIES (tablets) */
 @media screen and (max-width: 1024px) {
     header {        
-        height: 100vh;
+        /* height: 100vh; */
+        height: calc(100vh - -11rem);
+
     }
 }
 
 
-/* MEDIA QUERIES (tablets) */
-@media screen and (max-width: 600px) {      
+/* MEDIA QUERIES (cellphones) */
+@media screen and (max-width: 600px) {
+
+    header {        
+        /* height: 100vh; */
+        height: calc(100vh - -11rem);
+
+    }
+          
 
     .header__profile {
+        height: calc(100vh - 1rem);
         margin-top: 0.9rem;
         width: 14rem;
         height: 17rem;
