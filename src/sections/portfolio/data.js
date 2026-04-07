@@ -26,7 +26,7 @@ const data = [
     design: "",
   },
   {
-    id: 2,
+    id: 3,
     category: "fullstack",
     image: Image9,
     title: "AI Agentic Nutrition & Fitness Coach (Fullstack)",
